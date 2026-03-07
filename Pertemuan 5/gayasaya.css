@@ -1,0 +1,40 @@
+
+        /* ini internal css*/
+        /*selector tag html */
+
+        body {
+            background-color: yellowgreen;
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+        }
+        h2{
+            text-decoration: underline;
+
+        }
+        div{
+            border-width: 10px;
+            border-style: dotted;
+            border-style: #000;
+
+        }
+        /* sleection border */
+
+        .border-warna-merah{
+            border-color: red;
+
+        }
+        .border-warna-biru{
+            border-color: blue;
+
+
+        }
+        .border-warna-hijau{
+            border-color: green;
+
+        }
+        .border-spesoal{
+            border: 5px solid orange;
+
+        }
+    
